@@ -59,7 +59,70 @@
 
 <br/>
 
-## 📌 Featured Projects
+## 👥 Team Projects
+
+Collaborative projects built with teams of 8–9 members during university coursework, each member owning specific backend/frontend modules.
+
+<table>
+<tr>
+<td valign="top">
+
+### 🎯 [TalentIq](https://github.com/TalentIq-team/talentIq)
+A recruitment/interview management platform. My contributions:
+
+**Identity Module (Frontend)**
+- Login, Register, and Forgot Password flows
+- JWT-based authentication for secure API access
+
+**Interview Scheduling Module (Backend)**
+- Schedule Interview API
+- Reschedule Interview API
+- Candidate Evaluation API
+
+Tested all endpoints via Swagger; Reschedule and Candidate Evaluation APIs verified working end-to-end.
+
+`Java` `Spring Boot` `JWT` `Swagger`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🏢 [NexaERP](https://github.com/sudeesharavisara2-sys/NexaERP)
+A team-built ERP system covering core business management functions. My contributions:
+
+- **Dashboard Module** — analytics/overview screens for the system
+- **Inventory Module** — stock and inventory management features
+
+`Team Project` `ERP`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📋 [NextStep](https://github.com/dilshan24142/NextStep)
+A full-stack web application built collaboratively, with separate frontend and backend modules across the team.
+
+`Team Project` `Full-Stack`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎓 [Student Registration System](https://github.com/Madushi200310/StudentRegistrationSystem)
+A student registration and records management system developed as a group project.
+
+`Team Project` `Java`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Personal Projects
 
 <table>
 <tr>
