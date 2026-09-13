@@ -99,6 +99,18 @@ Spring Boot web application for user management with full CRUD operations and a 
 
 <br/>
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yathushi28-lang&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6DB33F/yathushi28-lang" alt="Yathushiha's contribution graph" width="90%" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yathushi28-lang&label=Profile%20Views&color=6DB33F&style=for-the-badge" />
 </p>
