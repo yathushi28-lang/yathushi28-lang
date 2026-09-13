@@ -65,14 +65,26 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/yathushi28-lang/Studenthub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yathushi28-lang&repo=Studenthub&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yathushi28-lang/spring-boot-user-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yathushi28-lang&repo=spring-boot-user-management&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Studenthub](https://github.com/yathushi28-lang/Studenthub)
+A comprehensive student management portal built with Java, handling student profiles, academic records, and collaboration features.
+
+`Java` `Backend` `Student Management`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [spring-boot-user-management](https://github.com/yathushi28-lang/spring-boot-user-management)
+Spring Boot web application for user management with full CRUD operations and a Thymeleaf UI.
+
+`Spring Boot` `CRUD` `Thymeleaf`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
