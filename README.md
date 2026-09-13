@@ -20,7 +20,8 @@ I am a **Software Engineering Student** passionate about backend development, fu
 ---
 
 ### 📊 GitHub Overview
-![Yathushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathushi28-lang&show_icons=true&theme=nord)
+![Yathushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathushi28-lang&show_icons=true&theme=nord&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yathushi28-lang&layout=compact&theme=nord&hide_border=true)
 
 ---
 
