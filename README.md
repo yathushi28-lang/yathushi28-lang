@@ -102,7 +102,13 @@ A team-built ERP system covering core business management functions. My contribu
 <td valign="top">
 
 ### 📋 [NextStep](https://github.com/dilshan24142/NextStep)
-A full-stack web application built collaboratively, with separate frontend and backend modules across the team.
+An integrated platform for managing campus services — 8 core modules built by 8 developers into one system, combining events, resources, transport, and more, secured with authentication and a modular design.
+
+**My module: Lost & Found Inventory**
+- Report and browse lost or found items
+- Upload item images and descriptions
+- Claim verification process for item ownership
+- Status notifications for users
 
 `Team Project` `Full-Stack`
 
