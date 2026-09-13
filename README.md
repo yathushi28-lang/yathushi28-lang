@@ -22,7 +22,7 @@
 - 🎓 Full-Stack Software Engineering student
 - 🧩 Core stack: **Java, Spring Boot, C++, HTML5/CSS3**
 - 🏗️ I build **REST APIs**, **CRUD applications**, and enterprise-style backends with **relational databases**
-- 🚀 Current goal: **scalable applications & microservices**
+- 🚀 Currently exploring **microservices concepts** as I grow beyond single-app projects
 - 🤝 Open to internships and collaborative projects
 - 💬 Ask me about Java backend design or Spring Boot architecture
 
@@ -87,7 +87,7 @@ Spring Boot web application for user management with full CRUD operations and a 
 ## 🧭 What I'm Focused On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Microservices%20Architecture-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Microservices%20Concepts-6DB33F?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Building-Spring%20Boot%20REST%20APIs-2E9EF7?style=for-the-badge" />
