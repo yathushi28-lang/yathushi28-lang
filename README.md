@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=200&section=header&text=Yathushiha%20Sivananthan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineering%20Student%20|%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=200&section=header&text=Yathushiha%20Sivananthan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineering%20Student%20|%20Java%20and%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Turning+ideas+into+REST+APIs+and+clean+code;3rd+year+Software+Engineering+student" />
