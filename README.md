@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yathushiha-sivananthan-428478357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:yathushi28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yathushi28-lang.github.io"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Colombo,%20Sri%20Lanka-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
