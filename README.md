@@ -1,20 +1,21 @@
-<h1 align="center">Hi there, I'm Yathushi Sivanathan 👋</h1>
-<p align="center">
-  <b>Software Engineering Student</b> | <b>Backend & Full-Stack Developer</b>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&lines=Hi%2C+I'm+Yathushi+Sivanathan+👋;Software+Engineering+Student;Java+%26+Spring+Boot+Developer" alt="Header Typing" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Building+Scalable+Backend+Systems;Java+%26+Spring+Boot+Developer;Crafting+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Full--Stack-00D2FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Colombo%2C_Sri_Lanka-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Internships-00E676?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
 
 ```javascript
 const yathushi = {
-    code: ["Java", "Spring Boot", "C++", "HTML5", "Git"],
-    focus: ["Backend REST APIs", "Full-Stack Web Apps", "Database Design"],
-    location: "Colombo, Sri Lanka",
-    goals: ["Mastering Microservices Architecture", "Open-Source Contributions"]
+    role: "Full-Stack Software Engineering Student",
+    coreSkills: ["Java", "Spring Boot", "REST APIs", "SQL"],
+    currentFocus: "Building scalable backend microservices & dynamic web apps",
+    passions: ["Clean Code", "System Architecture", "Open Source"]
 };
